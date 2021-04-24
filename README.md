@@ -9,3 +9,5 @@ modifying read me file
 on feature branch
 
 This is to create conflict
+
+the modified file
